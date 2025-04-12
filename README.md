@@ -77,6 +77,9 @@ Make sure `abc.jpg` and other Python modules are in the same directory.
 
 ## 📸 Preview
 
+ ![Main Interface](https://github.com/Yash-Raj-96/Malicious-URL-Detection/blob/main/a.jpg?raw=true) 
+ ![Scan Options](https://github.com/Yash-Raj-96/Malicious-URL-Detection/blob/main/b.jpg?raw=true) 
+ ![Settings and Updates](https://github.com/Yash-Raj-96/Malicious-URL-Detection/blob/main/c.jpg?raw=true) 
 
 ---
 
