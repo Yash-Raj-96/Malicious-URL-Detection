@@ -86,8 +86,6 @@ Make sure `abc.jpg` and other Python modules are in the same directory.
 ## 🙋 Author
 
 ### 👨‍💻 Made with ❤️ by [**Yash Raj**](https://github.com/Yash-Raj-96)  
-[![GitHub Follow](https://img.shields.io/github/followers/Yash-Raj-96?label=Follow%20Me&style=social)](https://github.com/Yash-Raj-96)
-
 
 ---
 
